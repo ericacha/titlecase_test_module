@@ -1,0 +1,7 @@
+name = titlecase
+description = covert input to title case
+package = Epicodus Examples
+core = 7.x
+files[] = titlecase.module
+files[] = titlecase.test
+dependencies[] =simpletest
